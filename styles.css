@@ -1,0 +1,28 @@
+body{
+    background: #C0A070;
+    font-size: 18px;
+    margin: 0;
+    text-align: center;
+}
+img{
+    width: 300px;
+    box-shadow: 0 0 10px #0009;
+    height: 225px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-bottom: 18px;
+}
+p{
+    text-align: left;
+}
+h1{
+    margin: 0;
+    background: linear-gradient(#DFCF8F, transparent);
+    box-sizing: border-box;
+    padding: 34px 0 50px 0;
+    width: 100%;
+}
+div{
+    padding: 14px;
+    margin-top: 0;
+}
